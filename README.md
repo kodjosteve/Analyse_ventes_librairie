@@ -14,7 +14,7 @@ Le projet a pour but d'étudier l'ensemble des ventes en lignes d'une librairie.
 ![](https://github.com/kodjosteve/Analyse_ventes_librairie/blob/main/Donn%C3%A9es%20d'entr%C3%A9e/Logo%20Lapage.png)
  <br><br>L’entreprise Lapage était originellement une librairie physique avec plusieurs points de vente. Mais devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne.
 <br>La structure a besoin d’aide pour mieux comprendre ses données, c’est pourquoi elle vous a recruté. Vous intervenez en tant que Data Analyst afin de faire le point sur l’activité. 
-<br><br>Un peu plus de 2 ans après le début de l'activité en ligne, elle souhaite faire un état des lieux. Elle demande donc une étude approfondie par un Data Analyst : 
+<br><br>Un peu plus de 2 ans après le début de l'activité en ligne, elle souhaite faire un état des lieux. Elle demande donc une étude approfondie pour déterminer : 
 - Ses points forts et faibles
 - Le comportement de ses clients : l’objectif serait cette fois-ci de comprendre le comportement de nos clients en ligne, pour pouvoir ensuite comparer avec la connaissance acquise via nos librairies physiques
 - La rentabilité de ses produits...
@@ -23,7 +23,7 @@ Le projet a pour but d'étudier l'ensemble des ventes en lignes d'une librairie.
 
 ## <u>1.2 Objectifs</u>
 Les objectifs visés par ce projet sont les suivants : <br>
- - Réaliser des tests statistiques
+ - Réalisation de tests statistiques
  - Analyse bivariée pour interpréter les données
  - Analyse des séries temporelles
 
